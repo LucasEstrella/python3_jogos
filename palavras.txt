@@ -2,3 +2,8 @@ banana
 melancia
 morango
 manga
+laranja
+maracuja
+uva
+melao
+
